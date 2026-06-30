@@ -4,13 +4,47 @@ Use this file while completing the lab on branch `lab24-implementation`.
 
 ## Checkpoint 0 — Environment
 
+### Windows PowerShell
+
+```powershell
+py -3.12 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip setuptools wheel
+python -m pip cache purge
+python -m pip install --no-cache-dir -r requirements.txt
+```
+
+### macOS/Linux
+
 ```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip setuptools wheel
+python -m pip cache purge
+python -m pip install --no-cache-dir -r requirements.txt
 ```
 
 Expected: packages install successfully.
+
+If installation was interrupted or a hash mismatch appears, delete the broken virtual environment and recreate it:
+
+```powershell
+# Windows PowerShell
+Deactivate 2>$null
+Remove-Item -Recurse -Force .venv
+py -3.12 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip setuptools wheel
+python -m pip cache purge
+python -m pip install --no-cache-dir -r requirements.txt
+```
+
+Always run CLI tools through the active venv's Python to avoid stale global launchers:
+
+```powershell
+python -m pytest tests/test_pii.py -v --tb=short
+python -m uvicorn src.api.main:app --reload
+```
 
 ## Checkpoint 1 — Generate raw data
 
@@ -37,7 +71,7 @@ Expected:
 ## Checkpoint 3 — Run PII tests
 
 ```bash
-pytest tests/test_pii.py -v --tb=short
+python -m pytest tests/test_pii.py -v --tb=short
 ```
 
 Expected: all tests pass.
@@ -45,7 +79,7 @@ Expected: all tests pass.
 ## Checkpoint 4 — Run RBAC API
 
 ```bash
-uvicorn src.api.main:app --reload
+python -m uvicorn src.api.main:app --reload
 ```
 
 In another terminal:
@@ -75,8 +109,8 @@ Expected: `Encryption test passed`.
 
 ```bash
 mkdir -p reports
-pytest tests/ -v --tb=short > reports/test_results.txt
-bandit -r src/ -f json -o reports/bandit_report.json
+python -m pytest tests/ -v --tb=short > reports/test_results.txt
+python -m bandit -r src/ -f json -o reports/bandit_report.json
 trufflehog git file://. --only-verified > reports/trufflehog_report.txt
 ```
 
