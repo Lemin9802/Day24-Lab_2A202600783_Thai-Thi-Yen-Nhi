@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Lab generated artifacts that should not be committed
+.vault_key
+data/raw/*.csv
+test_secret.py
+*.zip
+
+# Local reports are regenerated during submission
+reports/test_results.txt
+reports/bandit_report.json
+reports/trufflehog_report.txt
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
