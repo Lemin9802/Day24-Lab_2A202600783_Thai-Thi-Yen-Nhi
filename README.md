@@ -28,6 +28,7 @@
 | Lab scope evidence | [lab_scope_evidence.md](./medviet-governance/reports/lab_scope_evidence.md) |
 | Data governance notebook README | [data-governance-lab/README.md](./data-governance-lab/README.md) |
 | Agent governance policy reference | [medviet-data-policy.yaml](./data-governance-lab/policies/medviet-data-policy.yaml) |
+| Milestone 2 artifact summary | [MILESTONE2_ARTIFACTS.md](./MILESTONE2_ARTIFACTS.md) |
 
 ---
 
@@ -102,6 +103,16 @@ Actual pip-audit result:
 
     Reason for not upgrading in this lab:
     presidio-anonymizer requires cryptography >=46.0.4,<47.0.0. Upgrading cryptography to 49.0.0 creates a dependency conflict and may break the PII anonymization pipeline.
+
+---
+
+## Milestone 2 Preparation
+
+The cross-day artifact summary for Day 21 to Day 24 is available here:
+
+[Milestone 2 Artifact Summary](./MILESTONE2_ARTIFACTS.md)
+
+This file maps the four repositories to Chapter 5 themes: CI/CD, MLOps, LLMOps, Monitoring, and Governance.
 
 ---
 
