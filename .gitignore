@@ -1,26 +1,31 @@
-# Python
+﻿# Python cache / virtual environments
 __pycache__/
+**/__pycache__/
 *.py[cod]
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
 .venv/
+**/.venv/
 venv/
 .env
 .env.*
 
-# Lab generated artifacts that should not be committed
+# Secrets / local keys
 .vault_key
-data/raw/*.csv
+**/.vault_key
 test_secret.py
-*.zip
+**/test_secret.py
 
-# Local reports are regenerated during submission
-reports/test_results.txt
-reports/bandit_report.json
-reports/trufflehog_report.txt
+# Raw PII data must not be committed
+data/raw/*.csv
+**/data/raw/*.csv
+
+# Submission archives
+*.zip
 
 # OS / IDE
 .DS_Store
+Thumbs.db
 .vscode/
 .idea/

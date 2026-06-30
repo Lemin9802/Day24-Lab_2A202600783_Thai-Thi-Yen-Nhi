@@ -1,54 +1,63 @@
-# tests/test_pii.py
-import pytest
+from __future__ import annotations
+
 import pandas as pd
+import pytest
+
+from scripts.generate_data import generate_patients
 from src.pii.anonymizer import MedVietAnonymizer
 
+
 @pytest.fixture
-def anonymizer():
+def anonymizer() -> MedVietAnonymizer:
     return MedVietAnonymizer()
 
+
 @pytest.fixture
-def sample_df():
-    return pd.read_csv("data/raw/patients_raw.csv").head(50)
+def sample_df() -> pd.DataFrame:
+    return generate_patients(50)
+
 
 class TestPIIDetection:
-
-    def test_cccd_detected(self, anonymizer):
+    def test_cccd_detected(self, anonymizer: MedVietAnonymizer) -> None:
         text = "Bệnh nhân Nguyen Van A, CCCD: 012345678901"
-        results = anonymizer.analyzer.analyze(text=text, language="vi",
-                                               entities=["VN_CCCD"])
-        # TODO: assert rằng có ít nhất 1 result
-        assert ___
+        results = anonymizer.analyzer.analyze(text=text, language="vi", entities=["VN_CCCD"])
+        assert len(results) >= 1
+        assert results[0].entity_type == "VN_CCCD"
 
-    def test_phone_detected(self, anonymizer):
+    def test_phone_detected(self, anonymizer: MedVietAnonymizer) -> None:
         text = "Liên hệ: 0912345678"
-        # TODO: viết test tương tự
-        pass
+        results = anonymizer.analyzer.analyze(text=text, language="vi", entities=["VN_PHONE"])
+        assert len(results) >= 1
+        assert results[0].entity_type == "VN_PHONE"
 
-    def test_email_detected(self, anonymizer):
+    def test_email_detected(self, anonymizer: MedVietAnonymizer) -> None:
         text = "Email: nguyenvana@gmail.com"
-        # TODO: viết test
-        pass
+        results = anonymizer.analyzer.analyze(text=text, language="vi", entities=["EMAIL_ADDRESS"])
+        assert len(results) >= 1
+        assert results[0].entity_type == "EMAIL_ADDRESS"
 
-    # --- TASK QUAN TRỌNG ---
-    def test_detection_rate_above_95_percent(self, anonymizer, sample_df):
-        """Pipeline phải đạt >95% detection rate."""
+    def test_detection_rate_above_95_percent(self, anonymizer: MedVietAnonymizer, sample_df: pd.DataFrame) -> None:
         pii_columns = ["ho_ten", "cccd", "so_dien_thoai", "email"]
         rate = anonymizer.calculate_detection_rate(sample_df, pii_columns)
         print(f"\nDetection rate: {rate:.2%}")
         assert rate >= 0.95, f"Detection rate {rate:.2%} < 95%"
 
+
 class TestAnonymization:
-
-    def test_pii_not_in_output(self, anonymizer, sample_df):
-        """Sau anonymization, không còn CCCD gốc trong output."""
+    def test_pii_not_in_output(self, anonymizer: MedVietAnonymizer, sample_df: pd.DataFrame) -> None:
         df_anon = anonymizer.anonymize_dataframe(sample_df)
+        output_text = df_anon.astype(str).to_string(index=False)
         for original_cccd in sample_df["cccd"]:
-            # TODO: assert CCCD gốc không xuất hiện trong df_anon
-            assert str(original_cccd) not in ___
+            assert str(original_cccd) not in output_text
+        for original_phone in sample_df["so_dien_thoai"]:
+            assert str(original_phone) not in output_text
 
-    def test_non_pii_columns_unchanged(self, anonymizer, sample_df):
-        """Cột benh và ket_qua_xet_nghiem phải giữ nguyên."""
+    def test_non_pii_columns_unchanged(self, anonymizer: MedVietAnonymizer, sample_df: pd.DataFrame) -> None:
         df_anon = anonymizer.anonymize_dataframe(sample_df)
-        # TODO: assert hai cột này không thay đổi
-        pass
+        pd.testing.assert_series_equal(sample_df["benh"], df_anon["benh"], check_names=False)
+        pd.testing.assert_series_equal(
+            sample_df["ket_qua_xet_nghiem"],
+            df_anon["ket_qua_xet_nghiem"],
+            check_names=False,
+        )
+        pd.testing.assert_series_equal(sample_df["patient_id"], df_anon["patient_id"], check_names=False)

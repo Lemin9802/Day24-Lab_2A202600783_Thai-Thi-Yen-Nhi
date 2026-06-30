@@ -1,0 +1,18 @@
+# pip-audit Dependency Scan Report
+
+Generated at: 2026-06-30T05:28:03.818376+00:00
+Status: REVIEWED WITH MITIGATION
+
+Summary:
+- Known vulnerabilities found: 1
+- Affected package: cryptography 46.0.7
+- Advisory ID: GHSA-537c-gmf6-5ccf
+- Fixed version suggested by audit: 48.0.1
+
+Reason for not upgrading in this lab:
+presidio-anonymizer requires cryptography >=46.0.4,<47.0.0. Upgrading cryptography to 49.0.0 creates a dependency conflict and may break the PII anonymization pipeline.
+
+Mitigation:
+- Keep cryptography pinned to >=46.0.4,<47.0.0 for compatibility with presidio-anonymizer.
+- Track presidio-anonymizer releases and upgrade once it supports cryptography >=48.0.1.
+- For production, isolate this PII service in a container and rebuild once compatible patched dependencies are available.

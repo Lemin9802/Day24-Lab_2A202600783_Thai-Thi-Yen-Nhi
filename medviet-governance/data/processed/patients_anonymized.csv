@@ -1,0 +1,201 @@
+patient_id,ho_ten,cccd,ngay_sinh,so_dien_thoai,email,dia_chi,benh,ket_qua_xet_nghiem,bac_si_phu_trach,ngay_kham
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,BN_0001,223005401501,1950s,0599091699,patient.0001@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,5.37,BS. Nguyễn Hoài An,31/01/2026
+562b0f79-c374-49ee-b50b-ea63371ecd7b,BN_0002,911856239313,1940s,0954353462,patient.0002@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,4.17,BS. Lê Thanh Huyền,18/06/2026
+7412b293-4729-4739-a14f-f3d719db3ad0,BN_0003,367469214295,1960s,0775107991,patient.0003@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,8.68,BS. Phạm Thu Trang,20/06/2026
+a7cad415-366e-416f-908e-bad7b7c93acf,BN_0004,251282538206,1970s,0383842513,patient.0004@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,6.86,BS. Đỗ Ngọc Minh,26/04/2026
+988c24c9-61b1-4d22-a280-1c4510435a10,BN_0005,214832269481,1950s,0742784980,patient.0005@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,10.23,BS. Trần Bảo Ngọc,05/04/2026
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82,BN_0006,914655221101,1960s,0941241182,patient.0006@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,11.76,BS. Lê Quang Hưng,27/03/2026
+1efa2197-7394-488f-847f-d9b4e64d1bcb,BN_0007,700832336208,1930s,0749353487,patient.0007@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,5.55,BS. Vũ Minh Châu,06/02/2026
+6e595ed3-a8b3-47fa-98d0-752b1825bc54,BN_0008,748913461122,1940s,0701640052,patient.0008@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,4.53,BS. Đặng Gia Khánh,12/06/2026
+ed2662e9-17e0-41b7-b810-238303c72ba8,BN_0009,136171878809,2000s,0727868011,patient.0009@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,8.08,BS. Nguyễn Hoài An,12/01/2026
+80bacd64-7a0e-4fea-958c-a9ba0cd620c2,BN_0010,198912225902,1960s,0580598262,patient.0010@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,4.69,BS. Lê Thanh Huyền,26/01/2026
+750cab75-4ccc-4bc2-a53f-8a28abf3e3fc,BN_0011,354342113419,1940s,0345053315,patient.0011@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,3.52,BS. Phạm Thu Trang,31/01/2026
+35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,BN_0012,763595448017,2000s,0969232260,patient.0012@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,3.98,BS. Đỗ Ngọc Minh,25/01/2026
+e623a689-5d59-4d2a-8eea-04e70ab54bde,BN_0013,714294294451,1960s,0556342160,patient.0013@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,5.24,BS. Trần Bảo Ngọc,31/01/2026
+61ee411a-1bac-47a7-b386-f7a4c991603f,BN_0014,886833016361,1960s,0833754330,patient.0014@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,10.97,BS. Lê Quang Hưng,23/01/2026
+2db69edb-42de-4fcc-b86c-2ca2e08596db,BN_0015,871590378377,1990s,0565414586,patient.0015@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,9.6,BS. Vũ Minh Châu,02/03/2026
+6703b636-5380-4904-a88c-7015aab97e49,BN_0016,561902006518,1960s,0950142940,patient.0016@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,11.53,BS. Đặng Gia Khánh,04/06/2026
+bc67f831-cbc8-4759-b5b7-8cc7e6b3c944,BN_0017,590573056992,1980s,0396556981,patient.0017@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,11.37,BS. Nguyễn Hoài An,12/02/2026
+b227462c-f53d-4330-8dda-24ba2d06e8cf,BN_0018,407473554860,1950s,0893406088,patient.0018@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,3.7,BS. Lê Thanh Huyền,05/04/2026
+709b7d97-464c-44af-bd3f-3799a07295e9,BN_0019,933251567391,1960s,0556159514,patient.0019@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,9.69,BS. Phạm Thu Trang,16/05/2026
+c3fe0183-e172-4725-9b52-ca5805000bc6,BN_0020,275259659197,1970s,0946564823,patient.0020@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,9.62,BS. Đỗ Ngọc Minh,28/06/2026
+88bc539c-9f4c-4b79-bb10-987f20ac3703,BN_0021,566854953850,1930s,0862994680,patient.0021@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,7.15,BS. Trần Bảo Ngọc,26/05/2026
+f3b1025b-fff9-4585-8d55-7b618a175dfe,BN_0022,406404042870,1930s,0743699577,patient.0022@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,11.86,BS. Lê Quang Hưng,21/01/2026
+4fdc6e1b-edcb-4cb6-8692-dc639424aed5,BN_0023,336890980656,1960s,0838721489,patient.0023@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,4.63,BS. Vũ Minh Châu,04/02/2026
+a6846099-f729-4951-8591-31d2bbda0242,BN_0024,941629821539,2000s,0713433200,patient.0024@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,4.16,BS. Đặng Gia Khánh,10/03/2026
+4797b2c9-5720-4246-8223-623bcc3ebdde,BN_0025,213114812281,2000s,0579176936,patient.0025@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,10.58,BS. Nguyễn Hoài An,13/03/2026
+58007c02-87ea-4ff5-8db0-674679279973,BN_0026,517010168081,1990s,0863201632,patient.0026@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,6.36,BS. Lê Thanh Huyền,03/01/2026
+4639447b-2067-4dac-88bd-13d1b540b30e,BN_0027,491257417623,1970s,0970831727,patient.0027@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,6.28,BS. Phạm Thu Trang,30/01/2026
+f2f9e5fa-9016-4161-8fa7-01cd2631d00b,BN_0028,481597082643,1950s,0989579868,patient.0028@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,9.19,BS. Đỗ Ngọc Minh,03/02/2026
+00af5b3a-2812-459a-9337-739e8d4f5d27,BN_0029,390355792387,1930s,0827743487,patient.0029@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,9.43,BS. Trần Bảo Ngọc,12/01/2026
+9854ce4e-4ebf-45c3-8ae9-b4a72a79ea68,BN_0030,150711229823,1990s,0547143455,patient.0030@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,9.74,BS. Lê Quang Hưng,22/04/2026
+2cd94cbb-c19a-458c-835b-1c8c0a4c9f7f,BN_0031,605645347792,1990s,0912236231,patient.0031@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,5.05,BS. Vũ Minh Châu,03/03/2026
+f85e06a1-1dad-49b2-92c2-1221409d3602,BN_0032,235447068293,1990s,0865876036,patient.0032@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,6.0,BS. Đặng Gia Khánh,05/06/2026
+4f8d5238-288b-48b5-b5b4-53ca3d42993c,BN_0033,187525138707,1940s,0890967054,patient.0033@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,9.81,BS. Nguyễn Hoài An,09/04/2026
+dd30de89-22f2-45f2-a11b-868dbf0d073d,BN_0034,424493543665,1980s,0868893734,patient.0034@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,8.2,BS. Lê Thanh Huyền,09/01/2026
+b489d070-7914-48a8-bea4-ff31517400f8,BN_0035,790757033266,1940s,0870656272,patient.0035@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,4.77,BS. Phạm Thu Trang,02/05/2026
+7cea2045-c268-483e-a32f-2e63b7fddd71,BN_0036,498837994177,1960s,0980699016,patient.0036@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Tiểu đường,11.55,BS. Đỗ Ngọc Minh,20/04/2026
+2b840c67-2e18-4554-8ae2-8e66ae8a7813,BN_0037,312933106111,1960s,0572046537,patient.0037@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tiểu đường,9.34,BS. Trần Bảo Ngọc,14/06/2026
+627b41a1-ffd6-4232-b2ff-e2944d57d880,BN_0038,176040557040,1980s,0756464170,patient.0038@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,11.51,BS. Lê Quang Hưng,01/03/2026
+945ef2e4-088a-43ec-b0d9-c9f8c9e26074,BN_0039,826046287257,1970s,0905310033,patient.0039@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,7.91,BS. Vũ Minh Châu,28/01/2026
+dc322c97-39c1-4262-b76c-8edec1101266,BN_0040,947087372942,1980s,0392327193,patient.0040@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,4.25,BS. Đặng Gia Khánh,04/05/2026
+b379cb1e-e8cd-40cc-b6da-3ca0d2e82f38,BN_0041,517045625552,1950s,0845299124,patient.0041@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,7.22,BS. Nguyễn Hoài An,21/03/2026
+08601833-479d-4cda-b396-ea37f065c817,BN_0042,599410093881,1960s,0390496631,patient.0042@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,10.6,BS. Lê Thanh Huyền,10/02/2026
+dea45c19-d024-4d72-b748-967f961d33ba,BN_0043,277660601409,1930s,0931491905,patient.0043@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,10.85,BS. Phạm Thu Trang,13/04/2026
+79eb4168-1045-46e5-bee3-eb791d181ee9,BN_0044,488136971784,1950s,0965185067,patient.0044@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,7.71,BS. Đỗ Ngọc Minh,25/01/2026
+95da75c1-a211-40f9-9fd3-4579466772ce,BN_0045,835339233454,2000s,0365726284,patient.0045@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,10.74,BS. Trần Bảo Ngọc,14/03/2026
+ec48bf55-afd3-40c4-a713-582cf41ea3ac,BN_0046,869945806981,1940s,0987769453,patient.0046@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,5.99,BS. Lê Quang Hưng,10/03/2026
+36760ce5-81e5-49f6-93f2-77cc1a85910d,BN_0047,851347210313,1980s,0347379965,patient.0047@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,5.67,BS. Vũ Minh Châu,14/01/2026
+f8c88fae-a217-4f84-bdb0-25ff2451e5a4,BN_0048,180092702123,1960s,0375273545,patient.0048@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,8.39,BS. Đặng Gia Khánh,23/02/2026
+1d2324e6-8329-40b7-8143-f426372f871a,BN_0049,798400899699,2000s,0794808313,patient.0049@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,3.78,BS. Nguyễn Hoài An,17/05/2026
+d556b37d-8f08-41ee-8011-316b3ae88926,BN_0050,684850587137,1990s,0878377701,patient.0050@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Tiểu đường,4.7,BS. Lê Thanh Huyền,17/02/2026
+862268d1-6683-4107-96c0-44d06f887f28,BN_0051,369419548116,1980s,0736349578,patient.0051@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,11.28,BS. Phạm Thu Trang,28/05/2026
+2d5972c6-134a-4a2f-a7cf-705cc257cf73,BN_0052,607507949295,1990s,0956855744,patient.0052@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,11.03,BS. Đỗ Ngọc Minh,15/01/2026
+daf481a7-fa34-42e8-9d3f-7d7ea508dc95,BN_0053,397982492151,2000s,0731351823,patient.0053@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,4.28,BS. Trần Bảo Ngọc,18/02/2026
+707df251-fdb1-429e-b010-ed13b526b22d,BN_0054,858663022120,1980s,0574989413,patient.0054@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,8.09,BS. Lê Quang Hưng,26/01/2026
+15b02530-f020-4992-b576-255e98549f22,BN_0055,342910249529,1980s,0735240824,patient.0055@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,7.34,BS. Vũ Minh Châu,12/06/2026
+09a9d1c1-86ca-46f4-a238-fe93bd17c5e8,BN_0056,459422681391,1980s,0308427109,patient.0056@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,8.81,BS. Đặng Gia Khánh,02/03/2026
+78116802-c8cc-4cfe-8f01-f944f7315749,BN_0057,945433611429,1990s,0777752047,patient.0057@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,9.7,BS. Nguyễn Hoài An,29/05/2026
+e7c225da-7306-4588-85d5-a68d290a3abb,BN_0058,163462436409,1990s,0316719022,patient.0058@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,6.99,BS. Lê Thanh Huyền,28/05/2026
+9d8776a0-72d7-4bdd-b817-99ffb49e04cc,BN_0059,984901132451,1930s,0941318699,patient.0059@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,10.68,BS. Phạm Thu Trang,16/02/2026
+6de299a1-4a90-4d0c-a4c1-73b9b7f28572,BN_0060,539441524732,1960s,0938677496,patient.0060@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,7.07,BS. Đỗ Ngọc Minh,08/03/2026
+a0d572c8-a837-4e68-bba2-05ca3dba6da8,BN_0061,169869415070,1950s,0799091334,patient.0061@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,5.33,BS. Trần Bảo Ngọc,22/06/2026
+4f612217-eef1-4694-90ca-e32d0aba590e,BN_0062,726820024292,1940s,0323281206,patient.0062@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,6.29,BS. Lê Quang Hưng,05/06/2026
+14348f62-6cac-428c-ba22-006515260718,BN_0063,889742985454,1970s,0897403447,patient.0063@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,9.53,BS. Vũ Minh Châu,11/05/2026
+83599af6-5d01-455f-a7fd-64c4a334058a,BN_0064,333279765207,1990s,0334936183,patient.0064@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,5.38,BS. Đặng Gia Khánh,13/04/2026
+a6499cdc-507b-4072-a5e5-8f345df06e8c,BN_0065,648275934229,1930s,0542102499,patient.0065@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,9.91,BS. Nguyễn Hoài An,10/05/2026
+8ccc9cea-109f-48ee-b5a4-720058f0dd23,BN_0066,808302588517,1950s,0771746488,patient.0066@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,6.63,BS. Lê Thanh Huyền,15/01/2026
+a4704d48-5128-49b1-b8ed-e0ca20156a72,BN_0067,256589576361,2000s,0871906594,patient.0067@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,10.39,BS. Phạm Thu Trang,18/02/2026
+8d03f17a-f4d3-45c1-a293-19fa3240d7a1,BN_0068,251461507038,2000s,0313990490,patient.0068@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,6.3,BS. Đỗ Ngọc Minh,26/02/2026
+7ba24588-4d56-4a3d-b4e7-069aa4540937,BN_0069,917103043320,1940s,0578742967,patient.0069@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,8.99,BS. Trần Bảo Ngọc,01/04/2026
+3f779cae-7318-496d-8479-06121f5d988f,BN_0070,690821577339,1980s,0375655125,patient.0070@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,10.95,BS. Lê Quang Hưng,10/03/2026
+7eb162f1-4806-4804-8cf0-374c0c74dc0f,BN_0071,921467220156,1950s,0874680715,patient.0071@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,11.18,BS. Vũ Minh Châu,24/01/2026
+64d6dfbf-18c0-4e2b-b99f-070420f0156a,BN_0072,570662212985,1960s,0751680876,patient.0072@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,5.92,BS. Đặng Gia Khánh,09/04/2026
+7d66971e-8847-4c56-827c-9f8cd40ac5e9,BN_0073,743806247029,1980s,0338597703,patient.0073@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,6.21,BS. Nguyễn Hoài An,22/04/2026
+30d73df7-1c22-4cea-b355-56a5f2bd92f2,BN_0074,496852403351,1990s,0782477109,patient.0074@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,10.1,BS. Lê Thanh Huyền,12/05/2026
+ae455cc6-b88e-430f-9e1e-994ac5a11f5c,BN_0075,254608246768,1960s,0524808613,patient.0075@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,5.54,BS. Phạm Thu Trang,26/02/2026
+b6d1f6bb-f48f-409c-89a2-24410ac4de85,BN_0076,643354278056,1970s,0371274846,patient.0076@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,5.55,BS. Đỗ Ngọc Minh,02/01/2026
+edd97a1a-fa58-4b27-8ce3-e7c3f6eab3a0,BN_0077,929319141080,2000s,0873782639,patient.0077@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,11.43,BS. Trần Bảo Ngọc,20/06/2026
+9165f2ed-4c63-4e95-825f-55430997623a,BN_0078,267974663989,1990s,0921465840,patient.0078@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,6.62,BS. Lê Quang Hưng,10/06/2026
+1634725b-53f3-4073-83e9-6ef46d7df5d0,BN_0079,274493552068,1950s,0749972787,patient.0079@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,7.3,BS. Vũ Minh Châu,01/04/2026
+afa28559-67c9-4204-a8e3-33b64e8adc4b,BN_0080,850726264460,1980s,0758867533,patient.0080@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,8.64,BS. Đặng Gia Khánh,25/06/2026
+89628f6e-929c-43b3-b3c0-8bf18167999f,BN_0081,754648192232,1990s,0963605766,patient.0081@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,10.09,BS. Nguyễn Hoài An,23/04/2026
+58330b30-6c77-4e95-8b98-1ccd12b2102d,BN_0082,521179644432,1940s,0570289517,patient.0082@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,10.25,BS. Lê Thanh Huyền,15/04/2026
+ba54e920-2099-4180-8762-3997649f7d88,BN_0083,754474071330,1970s,0387026217,patient.0083@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,10.04,BS. Phạm Thu Trang,07/01/2026
+b40a9181-ac09-4db7-9908-6e477249f62c,BN_0084,615379416985,1990s,0759615865,patient.0084@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,6.24,BS. Đỗ Ngọc Minh,12/01/2026
+e134edfc-9777-4f10-b2d2-393f8e85140d,BN_0085,377150435753,1940s,0880913431,patient.0085@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,10.66,BS. Trần Bảo Ngọc,17/02/2026
+a58e83dd-548c-4d84-b40d-e04941476506,BN_0086,709761138617,1940s,0811724005,patient.0086@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,4.84,BS. Lê Quang Hưng,27/06/2026
+b42a2d93-9aba-4f15-b214-90623e1a963e,BN_0087,847373620112,1970s,0345562386,patient.0087@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,5.61,BS. Vũ Minh Châu,04/01/2026
+95831d58-ef4c-4119-8da5-d39b42c21797,BN_0088,227649528249,1980s,0922219693,patient.0088@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,7.8,BS. Đặng Gia Khánh,12/06/2026
+d1682e09-f1f7-4904-9307-5157d8c128e7,BN_0089,926939990836,1990s,0892374740,patient.0089@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,3.93,BS. Nguyễn Hoài An,21/05/2026
+49646b96-fa3c-4628-8926-21df465568b7,BN_0090,942959595464,1950s,0848217594,patient.0090@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,5.19,BS. Lê Thanh Huyền,19/01/2026
+8d7dd772-608e-4f5c-a117-727067c0518b,BN_0091,476415064723,1940s,0847436713,patient.0091@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,8.55,BS. Phạm Thu Trang,08/05/2026
+d9b59f84-edc3-41c3-adea-2d2d086c405f,BN_0092,422601660137,1950s,0895944064,patient.0092@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,8.46,BS. Đỗ Ngọc Minh,30/05/2026
+658e54a2-9879-4f35-b471-99869d264599,BN_0093,273665994394,2000s,0390974395,patient.0093@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,9.5,BS. Trần Bảo Ngọc,02/01/2026
+5c238d8d-71da-45b9-8eea-9db8f165d779,BN_0094,101948728483,1940s,0539421047,patient.0094@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,5.41,BS. Lê Quang Hưng,25/06/2026
+926bffa5-3e24-4fbf-ba69-8cd2fe2390f3,BN_0095,894370590668,1970s,0395214562,patient.0095@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,11.35,BS. Vũ Minh Châu,06/03/2026
+cdd7f460-6140-47d3-9ec4-ea48d773f98d,BN_0096,894035742189,1950s,0528588424,patient.0096@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,9.6,BS. Đặng Gia Khánh,06/01/2026
+f166cdcf-762c-4fbc-ba2a-a7baf3f81c31,BN_0097,939668623711,1940s,0845171236,patient.0097@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,11.98,BS. Nguyễn Hoài An,17/05/2026
+98049562-8972-4bbd-8ff2-b1c4e53f9644,BN_0098,654818085172,1980s,0951604817,patient.0098@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,6.31,BS. Lê Thanh Huyền,04/04/2026
+eba900e1-6a7d-4d96-8ba1-72331ac3bf31,BN_0099,219883823727,1980s,0749651370,patient.0099@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,3.56,BS. Phạm Thu Trang,18/04/2026
+6d268b37-8f52-42d3-94bb-bcf828fea761,BN_0100,790933616150,1960s,0985931746,patient.0100@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,6.62,BS. Đỗ Ngọc Minh,30/03/2026
+dcd5bfae-abb3-46a7-8329-97801d2c2721,BN_0101,656795048359,1980s,0320047113,patient.0101@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Tiểu đường,4.02,BS. Trần Bảo Ngọc,26/04/2026
+6c4c450b-623a-40fc-9326-7d25234b4562,BN_0102,317363871943,1950s,0926758692,patient.0102@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,7.38,BS. Lê Quang Hưng,18/05/2026
+2ad11fe8-7d1b-495e-b1a0-449dd703262f,BN_0103,508678332797,1960s,0817964053,patient.0103@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,5.03,BS. Vũ Minh Châu,27/02/2026
+7321a8b2-0840-405a-bfd2-f491dff389aa,BN_0104,279368618081,1990s,0873515850,patient.0104@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,9.22,BS. Đặng Gia Khánh,02/02/2026
+4aea1b8f-b43c-4e0a-ba9f-c10e52daf681,BN_0105,757132452561,2000s,0843171390,patient.0105@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,7.29,BS. Nguyễn Hoài An,20/03/2026
+b1d81887-4739-4c7b-bff3-0c8d83ff3e96,BN_0106,638263151675,1930s,0353293183,patient.0106@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,7.02,BS. Lê Thanh Huyền,20/01/2026
+75a72686-d632-4d31-88ac-ffcfa04d4d14,BN_0107,220342736258,1990s,0933529042,patient.0107@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,10.72,BS. Phạm Thu Trang,21/05/2026
+6de21429-3bf0-49c1-8156-e501b30e96e8,BN_0108,499127439409,1930s,0584210205,patient.0108@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,5.78,BS. Đỗ Ngọc Minh,13/03/2026
+61fa01ba-231a-47c7-8c9b-ff5ce1887eaf,BN_0109,988335239225,1930s,0595024026,patient.0109@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,10.09,BS. Trần Bảo Ngọc,06/05/2026
+99db1302-8dab-46d3-bf87-dfc2159152f2,BN_0110,363313768191,1960s,0911775891,patient.0110@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,5.72,BS. Lê Quang Hưng,30/05/2026
+1149d096-965d-444f-8445-c1a812af97e4,BN_0111,362241791770,1940s,0883908470,patient.0111@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,5.06,BS. Vũ Minh Châu,04/05/2026
+ae59aa52-a65b-422b-95a3-86d9c362a810,BN_0112,726541280440,1960s,0376617711,patient.0112@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,3.63,BS. Đặng Gia Khánh,25/01/2026
+44cdbfdd-df9b-441e-87f7-bda1bff15840,BN_0113,189966462838,1990s,0792124998,patient.0113@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,10.43,BS. Nguyễn Hoài An,14/02/2026
+0b461173-00a8-4473-8242-5912bda3c162,BN_0114,903526763113,1990s,0769847896,patient.0114@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Tiểu đường,7.75,BS. Lê Thanh Huyền,06/06/2026
+f43e8c48-0bc1-49e5-bb3d-f0638409c5ea,BN_0115,995440510689,1970s,0318367365,patient.0115@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,9.89,BS. Phạm Thu Trang,05/01/2026
+a2cd1590-58af-493c-8aa2-b4c93ba5bd76,BN_0116,687382313669,1980s,0866156545,patient.0116@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,11.74,BS. Đỗ Ngọc Minh,21/04/2026
+f6d70248-a995-4cc3-af5b-09a60ff1c51f,BN_0117,240728187316,1970s,0571111615,patient.0117@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,9.55,BS. Trần Bảo Ngọc,30/05/2026
+769de1e3-4eed-4124-b3b0-d6763527a5c8,BN_0118,822105942877,1950s,0580988516,patient.0118@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,3.72,BS. Lê Quang Hưng,06/06/2026
+030f9be9-1f17-4f93-a3c9-7a1ecb371d97,BN_0119,282750014896,1950s,0760494519,patient.0119@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,5.78,BS. Vũ Minh Châu,10/01/2026
+6ee35607-92ea-4324-ac93-e5962b015723,BN_0120,680958994499,1990s,0932731585,patient.0120@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,6.32,BS. Đặng Gia Khánh,23/03/2026
+cc152a1b-e278-4642-a484-e035330faaa3,BN_0121,769467002266,2000s,0349368998,patient.0121@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,5.88,BS. Nguyễn Hoài An,21/02/2026
+ead18464-ca8e-458c-90f8-1063889fe107,BN_0122,931244947195,1980s,0394024455,patient.0122@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,9.58,BS. Lê Thanh Huyền,15/02/2026
+86c5547c-051a-4039-b803-dcee9a069295,BN_0123,859049274154,1960s,0322961201,patient.0123@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,8.29,BS. Phạm Thu Trang,31/01/2026
+cab63107-6fd6-4b3a-b2dd-9456bb7b6c05,BN_0124,882547985119,1980s,0936675254,patient.0124@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,11.98,BS. Đỗ Ngọc Minh,06/03/2026
+58c88c48-3ced-4d1f-93eb-22c9beced21a,BN_0125,539425475482,1990s,0799102290,patient.0125@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,3.88,BS. Trần Bảo Ngọc,10/06/2026
+93fb71d0-dd32-4d9c-89ea-356a7abfcebf,BN_0126,838713541566,1940s,0347679764,patient.0126@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,7.32,BS. Lê Quang Hưng,09/02/2026
+b27b7bb4-68c6-40b2-b0a2-cee8f9722cc1,BN_0127,510813098126,1960s,0581561497,patient.0127@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,8.7,BS. Vũ Minh Châu,16/01/2026
+4ef03f80-1d91-4e39-9801-4004793bed1b,BN_0128,596144210356,1940s,0940369003,patient.0128@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,8.57,BS. Đặng Gia Khánh,14/02/2026
+6319629b-d73e-4bb9-8f9c-a17b8db8dadf,BN_0129,371102648727,1960s,0732445107,patient.0129@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,11.69,BS. Nguyễn Hoài An,13/05/2026
+d2938e6e-ff4d-4930-b3b0-fb536f75ee8a,BN_0130,169684544463,1940s,0822683885,patient.0130@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,8.17,BS. Lê Thanh Huyền,01/06/2026
+de12dbf1-493d-4196-8926-a02119da8262,BN_0131,122926902939,2000s,0360607159,patient.0131@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,10.09,BS. Phạm Thu Trang,13/06/2026
+af527666-b239-49f4-9bb5-46457ddac1b6,BN_0132,708117155426,1970s,0896641605,patient.0132@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,8.37,BS. Đỗ Ngọc Minh,07/02/2026
+d6441a9d-3362-4476-953a-e57fe00bd534,BN_0133,745233429651,1990s,0597516136,patient.0133@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,6.92,BS. Trần Bảo Ngọc,09/03/2026
+e4fd6c34-d670-4a21-a9dc-073e5820b3f2,BN_0134,105240793782,1930s,0968164535,patient.0134@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,8.31,BS. Lê Quang Hưng,29/04/2026
+b676291d-4e32-4b4b-b168-c605ce1a1669,BN_0135,877693993558,1980s,0518188355,patient.0135@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,6.66,BS. Vũ Minh Châu,20/02/2026
+e4729be5-f3c2-444a-b60a-3dcca7f77451,BN_0136,167135076022,2000s,0531243292,patient.0136@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,9.4,BS. Đặng Gia Khánh,08/06/2026
+b69f5eab-b9ff-4c29-97d9-cbb0309e47ba,BN_0137,173997741524,2000s,0327799799,patient.0137@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,9.64,BS. Nguyễn Hoài An,24/04/2026
+1e26ed31-d9e9-4758-b6b9-04364b46ef33,BN_0138,138248487718,1940s,0752717744,patient.0138@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,10.12,BS. Lê Thanh Huyền,01/06/2026
+a18b5d15-5527-4407-bcd2-192f14b00f62,BN_0139,464469358785,1930s,0905814770,patient.0139@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,4.62,BS. Phạm Thu Trang,22/05/2026
+e45a87e8-039a-4ed5-b337-b2615f8392d5,BN_0140,662945045779,1930s,0354119986,patient.0140@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Tiểu đường,8.94,BS. Đỗ Ngọc Minh,25/06/2026
+303cb04b-c007-4336-9bf7-dda17d7c59a5,BN_0141,405964900141,1960s,0898079359,patient.0141@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,4.49,BS. Trần Bảo Ngọc,15/03/2026
+797209c0-40b3-44f8-8c1a-b2c71fa3ed1f,BN_0142,635449182375,1970s,0882071518,patient.0142@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,7.95,BS. Lê Quang Hưng,11/03/2026
+290e3e89-4b9c-42f4-a8e5-c8cdb4146e4a,BN_0143,693625626938,1960s,0503778892,patient.0143@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Tiểu đường,5.58,BS. Vũ Minh Châu,20/01/2026
+0a190939-dfc7-4b26-acb9-41fcd02c75f9,BN_0144,895137224815,1990s,0754665905,patient.0144@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,10.34,BS. Đặng Gia Khánh,14/05/2026
+6bf7240f-ccc6-4fed-ba6e-43d0d9c59cd9,BN_0145,733812803930,1950s,0351864492,patient.0145@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,11.98,BS. Nguyễn Hoài An,08/05/2026
+de4b061e-b45e-4463-832a-09e05071e5f0,BN_0146,368318078969,1940s,0719254629,patient.0146@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,11.77,BS. Lê Thanh Huyền,24/02/2026
+8ced4707-3903-4b65-81c6-1eeb0ce3c8c8,BN_0147,623060957599,1990s,0348652816,patient.0147@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,5.98,BS. Phạm Thu Trang,03/06/2026
+a335b2c8-9e7b-4e95-b692-641a9aad10ce,BN_0148,550144771997,1960s,0950542357,patient.0148@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,11.7,BS. Đỗ Ngọc Minh,09/01/2026
+23f47a55-7e0f-40b2-aa06-1609e599bd3c,BN_0149,203897019487,1960s,0532214188,patient.0149@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,10.47,BS. Trần Bảo Ngọc,23/05/2026
+6ecca931-ef70-4d01-8da0-3d880c6f3051,BN_0150,821970820395,1950s,0905929622,patient.0150@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,11.3,BS. Lê Quang Hưng,17/06/2026
+ef7db821-bca0-458e-b63d-65d5505c7527,BN_0151,488398407379,1970s,0592706537,patient.0151@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,5.33,BS. Vũ Minh Châu,05/01/2026
+ab95c72f-0d95-4af5-a534-21bc6180b78a,BN_0152,552790822417,1950s,0947383473,patient.0152@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,8.96,BS. Đặng Gia Khánh,17/03/2026
+f9cf8499-c9c1-4d45-b4ea-6b976aa415b5,BN_0153,158965931802,1960s,0797746886,patient.0153@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,4.0,BS. Nguyễn Hoài An,24/01/2026
+4773e66a-6db2-4020-8a67-01436090103c,BN_0154,820151617123,1970s,0539240758,patient.0154@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,11.27,BS. Lê Thanh Huyền,22/03/2026
+1789be63-6746-4743-897b-303d8b074d1a,BN_0155,812896561232,1980s,0381412478,patient.0155@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Tiểu đường,6.32,BS. Phạm Thu Trang,09/06/2026
+cd8565ce-83a9-4235-9ffd-4015c53f1db3,BN_0156,164847210990,1960s,0561375060,patient.0156@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,11.79,BS. Đỗ Ngọc Minh,11/01/2026
+8ede9b46-407d-4aff-8b51-a9112d90e4ee,BN_0157,900593162298,1970s,0885361530,patient.0157@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,11.33,BS. Trần Bảo Ngọc,24/02/2026
+61a451ff-700b-4b43-ad3b-9d13c3e90323,BN_0158,977630621959,1950s,0715220472,patient.0158@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,9.62,BS. Lê Quang Hưng,28/01/2026
+9dec2b83-3885-4f7e-af1a-25a829344e15,BN_0159,219664972382,1960s,0879010432,patient.0159@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,5.72,BS. Vũ Minh Châu,14/01/2026
+7c6166df-515a-4b43-b189-1f48e66e2c11,BN_0160,311521368324,1950s,0998614341,patient.0160@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,5.25,BS. Đặng Gia Khánh,22/01/2026
+14fc3a5d-9b4b-4377-a542-deb92cff45f8,BN_0161,689227460591,1960s,0336971179,patient.0161@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,5.2,BS. Nguyễn Hoài An,08/04/2026
+5d264b1b-6593-4659-972e-8c6882aa5c46,BN_0162,252250635901,1950s,0908932460,patient.0162@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,5.74,BS. Lê Thanh Huyền,11/04/2026
+635a11f2-5c7a-483d-8a9d-2704e860bcb1,BN_0163,299380463457,1970s,0953962185,patient.0163@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,7.55,BS. Phạm Thu Trang,27/03/2026
+83b8fa05-13bc-4dc6-bae0-acdb2a6524af,BN_0164,608002483225,1960s,0388888067,patient.0164@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,10.59,BS. Đỗ Ngọc Minh,26/04/2026
+833c8f55-a129-4fa2-a27d-4660293fc266,BN_0165,185569774204,1950s,0365405153,patient.0165@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,11.36,BS. Trần Bảo Ngọc,04/06/2026
+2e8ff5a8-c47a-4b7e-9209-383b95284c0a,BN_0166,986666495028,1990s,0395205852,patient.0166@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,9.37,BS. Lê Quang Hưng,09/05/2026
+8a0ea57a-9a7d-409d-a6e8-790b215d3b1f,BN_0167,209737811619,2000s,0872217043,patient.0167@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,5.3,BS. Vũ Minh Châu,21/03/2026
+b58ac738-0166-4221-b063-ae7f41ff81d1,BN_0168,813181846360,1950s,0330548687,patient.0168@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,3.93,BS. Đặng Gia Khánh,22/03/2026
+7b8301cf-8ebc-4d7e-88a6-5b858d56bff6,BN_0169,696997372373,2000s,0703450541,patient.0169@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,9.87,BS. Nguyễn Hoài An,04/05/2026
+d2c0dec2-1751-44d7-8deb-2696015aba1d,BN_0170,116475613040,1940s,0766765277,patient.0170@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,5.65,BS. Lê Thanh Huyền,02/06/2026
+b2cd9a0a-840c-4cb0-82b3-43849979cf26,BN_0171,202946055043,1980s,0784161692,patient.0171@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,6.04,BS. Phạm Thu Trang,09/03/2026
+46c937e0-d0c5-4550-b69a-053958f42098,BN_0172,928612436713,1930s,0945115447,patient.0172@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,11.21,BS. Đỗ Ngọc Minh,13/05/2026
+dcad8ec2-963a-4333-a582-95dc75f1c654,BN_0173,361343158181,1970s,0962757059,patient.0173@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,11.55,BS. Trần Bảo Ngọc,02/03/2026
+92ded495-e4f1-48e8-b7f3-f32b5a81762a,BN_0174,547390899554,2000s,0840165820,patient.0174@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,7.75,BS. Lê Quang Hưng,06/04/2026
+e5a1c6e4-e188-4146-bc40-a3d4e5eb4549,BN_0175,630366790167,2000s,0597021355,patient.0175@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,7.34,BS. Vũ Minh Châu,11/05/2026
+19ca9c1b-94bc-447a-a122-318935f3de4a,BN_0176,280640463568,1970s,0890927557,patient.0176@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Huyết áp cao,3.65,BS. Đặng Gia Khánh,06/06/2026
+db370ca7-6ea5-4341-8e2a-c3ff3c5dba42,BN_0177,101627677155,1990s,0392856543,patient.0177@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Khỏe mạnh,11.05,BS. Nguyễn Hoài An,20/02/2026
+8eb7c306-8f73-498e-9c3d-0d5f5c6801d6,BN_0178,529433631560,1990s,0302786814,patient.0178@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,8.55,BS. Lê Thanh Huyền,23/03/2026
+679f2f42-9256-4707-9cc0-5b67a19b224a,BN_0179,962361016774,1980s,0773947312,patient.0179@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,7.06,BS. Phạm Thu Trang,09/05/2026
+b360dfaa-be6e-4d47-b0c0-804b406bf02d,BN_0180,415486858682,1980s,0372715518,patient.0180@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,9.35,BS. Đỗ Ngọc Minh,26/01/2026
+075072d6-2bac-4712-96a9-19e886d895e5,BN_0181,866320981994,1970s,0944225831,patient.0181@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Tiểu đường,10.41,BS. Trần Bảo Ngọc,13/03/2026
+4db6f475-27dd-4ac4-8282-b6e46986305a,BN_0182,907270532291,1950s,0523705895,patient.0182@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Khỏe mạnh,6.9,BS. Lê Quang Hưng,19/05/2026
+d413c850-63c4-476d-a55f-a725bcb3c168,BN_0183,963268767101,1990s,0882911467,patient.0183@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tiểu đường,10.83,BS. Vũ Minh Châu,30/01/2026
+05aa5eab-88f3-47ea-b83f-52740cb4afe1,BN_0184,828236479796,1950s,0966912517,patient.0184@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,7.6,BS. Đặng Gia Khánh,16/04/2026
+e54c8739-3133-439e-ae7d-952b785b8a07,BN_0185,635661484746,1950s,0885289226,patient.0185@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,6.93,BS. Nguyễn Hoài An,12/04/2026
+a3760c2d-7b31-4cdc-80d9-1a8e1f44aa88,BN_0186,306823277527,1940s,0901824225,patient.0186@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,11.07,BS. Lê Thanh Huyền,08/04/2026
+56a2d49d-9e5f-4273-af9a-116817661795,BN_0187,337497551698,1950s,0558414384,patient.0187@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,8.16,BS. Phạm Thu Trang,06/02/2026
+59008d65-8b2a-4759-afc6-c4e691135d7e,BN_0188,164290117190,1950s,0549818299,patient.0188@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,10.06,BS. Đỗ Ngọc Minh,12/04/2026
+8d2cfe83-c407-4654-bf5f-61aaaee7c7a5,BN_0189,909941412032,1970s,0529959001,patient.0189@example.org,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,7.78,BS. Trần Bảo Ngọc,12/02/2026
+03599c6d-1224-4bd2-b7c4-b3ee9b1fc6d1,BN_0190,166753220112,1990s,0394396907,patient.0190@example.com,"Ocean Park 2, Văn Giang, Hưng Yên",Tim mạch,9.34,BS. Lê Quang Hưng,13/04/2026
+a0154d65-91ed-454a-bfae-ef01a8290f3c,BN_0191,446809914267,1980s,0944736471,patient.0191@example.net,"Ocean Park 2, Văn Giang, Hưng Yên",Tiểu đường,9.2,BS. Vũ Minh Châu,16/02/2026
+60042231-36c3-4e85-8bae-295e902a405c,BN_0192,151785130539,1990s,0327677359,patient.0192@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,9.39,BS. Đặng Gia Khánh,31/01/2026
+e3be7ca0-5df9-44fb-83d6-43ed236eb832,BN_0193,626495033786,1940s,0555562588,patient.0193@example.com,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,11.86,BS. Nguyễn Hoài An,18/06/2026
+3a0a2b59-c538-4872-9eaa-543e1edbbe71,BN_0194,683482989002,1940s,0353714732,patient.0194@example.net,"Ocean Park 3, Văn Giang, Hưng Yên",Tim mạch,8.57,BS. Lê Thanh Huyền,25/05/2026
+4336ffe5-6631-46a7-8c53-b74c0c9fa6e6,BN_0195,160805710565,1990s,0304696325,patient.0195@example.org,"Ocean Park 3, Văn Giang, Hưng Yên",Huyết áp cao,9.14,BS. Phạm Thu Trang,24/03/2026
+521be8c2-30c3-4f8a-992a-b43d5d822e3a,BN_0196,662472262434,1950s,0953278774,patient.0196@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Tim mạch,8.09,BS. Đỗ Ngọc Minh,02/04/2026
+bd717da3-3581-4632-94f5-df7005d2d205,BN_0197,173812556182,1970s,0801687339,patient.0197@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Huyết áp cao,10.85,BS. Trần Bảo Ngọc,08/05/2026
+637e3f94-110c-4d92-8222-305df1f71605,BN_0198,175570100353,1930s,0700479748,patient.0198@example.org,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,6.8,BS. Lê Quang Hưng,18/03/2026
+58c69158-04b4-4ac9-a831-7f0dbe9063fb,BN_0199,543391824534,2000s,0316245650,patient.0199@example.com,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,6.74,BS. Vũ Minh Châu,16/04/2026
+2379c05f-a708-4280-b4ee-0b6721bbd183,BN_0200,726594012825,1950s,0809835841,patient.0200@example.net,"Ocean Park 1, Gia Lâm, Hà Nội",Khỏe mạnh,8.07,BS. Đặng Gia Khánh,21/01/2026
