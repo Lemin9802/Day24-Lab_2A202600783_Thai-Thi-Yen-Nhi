@@ -1,0 +1,28 @@
+#!/bin/bash
+# Pre-commit hook: run security checks before commit.
+
+set -e
+
+echo "Running security checks..."
+
+if command -v git-secrets >/dev/null 2>&1; then
+  git secrets --pre_commit_hook -- "$@"
+else
+  echo "git-secrets not installed; skipping git-secrets check."
+fi
+
+if command -v bandit >/dev/null 2>&1; then
+  echo "Running Bandit SAST..."
+  bandit -r src/ -ll -q
+else
+  echo "bandit not installed; skipping Bandit check."
+fi
+
+if command -v pip-audit >/dev/null 2>&1; then
+  echo "Checking dependencies for CVEs..."
+  pip-audit --desc on
+else
+  echo "pip-audit not installed; skipping dependency audit."
+fi
+
+echo "All available security checks passed."
