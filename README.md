@@ -1,6 +1,3 @@
-cd "C:\Users\THAI NHI\Desktop\VinUni\Day24-Track02-Lab-Assignment"
-
-@'
 # MedViet Data Governance & Security Lab
 
 **Course:** AICB-P2T2 - Lab #24 Extended  
